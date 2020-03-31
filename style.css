@@ -19,7 +19,7 @@ nav a {
   background: gray;
 }
 figcaption {
-  text-align: center;
+  display: inline-block;
   font-size: 15px;
 }
 #featured-property {
