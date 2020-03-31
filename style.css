@@ -18,6 +18,9 @@ nav a {
 #featured-property {
   text-align: center;
 }
+#featured-property p {
+  width: 800px;
+}
 #details {
   display: block;
 }
