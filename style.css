@@ -24,5 +24,7 @@ figcaption {
 }
 #details {
   display: block;
+}
+section ~ div {
   
 }
