@@ -14,3 +14,15 @@ nav ~ a {
   padding: 10px;
   background: blue;
 }
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+#featured-property {
+  width: 800px;
+  text-align: center;
+}
+#details {
+  display: block;
+  
+}
