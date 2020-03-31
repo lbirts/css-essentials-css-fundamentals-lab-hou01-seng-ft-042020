@@ -10,7 +10,7 @@ img {
   text-align: center;
 }
 nav a {
-  text-align: center;
+  margin: auto;
   padding: 10px;
   background: gray;
 }
