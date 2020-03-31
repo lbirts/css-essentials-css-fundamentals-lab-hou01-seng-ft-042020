@@ -19,9 +19,8 @@ nav a {
   text-align: center;
 }
 #featured-property p {
-  margin: auto;
+  display: inline-block;
   width: 800px;
-  text-align: center;
 }
 #details {
   display: block;
