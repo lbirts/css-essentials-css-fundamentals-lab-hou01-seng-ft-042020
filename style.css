@@ -6,9 +6,6 @@ body {
 h1 {
   text-align: center;
 }
-figure {
-  display: inline-block;
-}
 nav {
   text-align: center;
 }
@@ -17,10 +14,6 @@ nav a {
   padding-left: 10px;
   padding-right: 10px;
   background: gray;
-}
-figcaption {
-  display: inline-block;
-  font-size: 15px;
 }
 #featured-property {
   width: 800px;
