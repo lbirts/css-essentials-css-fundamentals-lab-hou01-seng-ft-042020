@@ -9,10 +9,10 @@ h1 {
 img {
   text-align: center;
 }
-nav ~ a {
+nav a {
   text-align: center;
   padding: 10px;
-  background: blue;
+  background: gray;
 }
 figcaption {
   text-align: center;
